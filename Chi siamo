@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chi siamo</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Chi siamo</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">Chi siamo</a></li>
+                <li><a href="contact.html">Contatti</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>La nostra storia</h2>
+            <p>Siamo una squadra di sviluppatori appassionati che amano creare soluzioni web innovative.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 - Il nostro sito web</p>
+    </footer>
+</body>
+</html>
